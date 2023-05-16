@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 4a8ca89c1cb6b5744a9342c2c1ab6740
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bank
+    100002: Becken
+    100004: gelaender
+    100006: glas
+    100008: //RootNode
+    100010: liegen
+    100012: Linseneffekt_Quelle
+    100014: Mond
+    100016: Mondlicht
+    100018: poolrand
+    100020: rampe
+    100022: Schattenebene
+    100024: Sky_Dome
+    100026: Sky_Null
+    100028: Sonne
+    100030: Sonnenlicht
+    100032: StackedFineClouds
+    100034: terrasse_1
+    100036: Tisch
+    100038: Wand
+    100040: wasser
+    400000: Bank
+    400002: Becken
+    400004: gelaender
+    400006: glas
+    400008: //RootNode
+    400010: liegen
+    400012: Linseneffekt_Quelle
+    400014: Mond
+    400016: Mondlicht
+    400018: poolrand
+    400020: rampe
+    400022: Schattenebene
+    400024: Sky_Dome
+    400026: Sky_Null
+    400028: Sonne
+    400030: Sonnenlicht
+    400032: StackedFineClouds
+    400034: terrasse_1
+    400036: Tisch
+    400038: Wand
+    400040: wasser
+    2300000: Bank
+    2300002: Becken
+    2300004: gelaender
+    2300006: glas
+    2300008: liegen
+    2300010: poolrand
+    2300012: rampe
+    2300014: terrasse_1
+    2300016: Tisch
+    2300018: Wand
+    2300020: wasser
+    3300000: Bank
+    3300002: Becken
+    3300004: gelaender
+    3300006: glas
+    3300008: liegen
+    3300010: poolrand
+    3300012: rampe
+    3300014: terrasse_1
+    3300016: Tisch
+    3300018: Wand
+    3300020: wasser
+    4300000: rampe
+    4300002: Wand
+    4300004: Tisch
+    4300006: Bank
+    4300008: terrasse_1
+    4300010: poolrand
+    4300012: glas
+    4300014: gelaender
+    4300016: liegen
+    4300018: wasser
+    4300020: Becken
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bank
+    second: {fileID: 2100000, guid: 77d94f576b9cefb4d8069e3e270b2645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelaender
+    second: {fileID: 2100000, guid: 9a8fdc6e843bb184a92cd2d553960a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas
+    second: {fileID: 2100000, guid: 65fdf83f1442c23428d2de1fbf85aa06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Liege
+    second: {fileID: 2100000, guid: 7d0edcfed9a88f843a823e434296f7bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poolrand
+    second: {fileID: 2100000, guid: 9f33742fa00cae746b2d739ee54478c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terrasse
+    second: {fileID: 2100000, guid: 5300c0b17f2e01b428158a3d1dcb671a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tisch
+    second: {fileID: 2100000, guid: 37106842f97fc644ab302fc940746610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wand
+    second: {fileID: 2100000, guid: e3e46cd25fa42744ab83828022a50803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: becken
+    second: {fileID: 2100000, guid: 100baaee552e0514986ee46a61b6a575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rampe
+    second: {fileID: 2100000, guid: 4a28e5934a6ab5141999117d235a0a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wasser
+    second: {fileID: 2100000, guid: d9f3448f8662d114c973d58af06632aa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
